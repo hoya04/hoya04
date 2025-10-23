@@ -1,8 +1,4 @@
-![hoya04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hoya04)
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoya04&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-  <img src="https://github-readme-stats.vercel.app/api?username=hoya04&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+![header](https://capsule-render.vercel.app/api?type=Speech&color=gradient&height=300&section=header&text=Hoya's%20GITHUB&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Data+Scientist;Always+learning+new+things)](https://git.io/typing-svg)
+### Studying...✏️
+<img src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-%23013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
