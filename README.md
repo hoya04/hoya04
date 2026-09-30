@@ -34,9 +34,9 @@
 ### Interests 🔬
 
 - Natural Language Processing
-- Deep Learning
+- Large Language Model
 - Recommender Systems
-- Data Analysis
+- Agentic AI
 
 ---
 
